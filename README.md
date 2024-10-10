@@ -3,6 +3,20 @@ First project while training with The Incubator Hub
 
 ### Project Title: Company Employees' Data
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ### Project Overview
 ---
 ### Data Sources
@@ -40,6 +54,12 @@ WHERE CONDITION = TRUE
 ![image](https://github.com/user-attachments/assets/8f6786ac-549a-4c15-a11c-f0993b60176a)
 
 
+😄
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|--------|---------|
+|Table 1|Table 2|Table 3|
 
 
 
