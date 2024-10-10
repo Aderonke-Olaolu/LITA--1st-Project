@@ -25,7 +25,7 @@ In the initial phase of data cleaning and preparations, we perform the following
   2. Handling missing variables
   3. Data Cleaning and formatting
 
-  
+
 ### Exploratory Data Analysis
 
 ### Data Analysis
@@ -35,6 +35,9 @@ Lines of codes are included in this section
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+### Data Visualization
+![image](https://github.com/user-attachments/assets/8f6786ac-549a-4c15-a11c-f0993b60176a)
 
 
 
